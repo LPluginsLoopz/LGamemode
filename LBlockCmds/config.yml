@@ -1,0 +1,12 @@
+#################
+#  LBlockCmds   #
+#  Loopz#6245   #
+#################
+Message: '&cEste comando foi bloqueado, não foi possivel executar.'
+Commands: #Não utilizar `/`
+   - bukkit:plugins
+   - pl
+   - plugins
+   - ver
+   - bukkit:ver
+   - help
